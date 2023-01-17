@@ -1,0 +1,7 @@
+.idea
+/.env/
+.env
+*.log
+// settings.py
+__pycache__
+.coverage
